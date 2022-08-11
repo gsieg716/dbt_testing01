@@ -1,0 +1,5 @@
+
+
+Marts folder: All intermediate, fact, and dimension models can be stored here. Further subfolders can be used to separate data by business function (e.g. marketing, finance)
+
+
